@@ -7,7 +7,7 @@ This repository contains the code for a Jupyter notebook that clusters cryptocur
 
 The application is written in Python 3.9.7 and uses the following libraries:
 
-PCA
+*PCA
 Path
 pandas
 hvplot
@@ -26,15 +26,15 @@ conda install -c pyviz hvplot
 
 PLease refer to Jupyter Notebook installation guide: https://jupyter.org/install.
 
-Usage
+## Usage
 In the command line go to the folder containing the jupyter notebook. Run jupyter notebook to start the jupyter notebook. Alternatively, open Anaconda Navigator, click on "Launch Jupyter Notebook" to start the jupyter notebook.
 
-Contributors
+## Contributors
 Project author : A.Rubkevich
 
 Contact information : anastasiyarubkevich@github.com
 
-License
+## License
 MIT License
 
 Copyright (c) 2021
